@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kwest15102
+- 👋 Hi, I’m Kelly
 - 👀 I’m interested in history, politics, and learning new skills!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science projects
